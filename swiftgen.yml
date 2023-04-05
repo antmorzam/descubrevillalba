@@ -1,0 +1,19 @@
+input_dir: descubrevillalba
+output_dir: descubrevillalba/Constants
+strings:
+  - inputs: Resources/es.lproj/Localizable.strings
+    outputs:
+      templatePath: swiftgen/strings.stencil
+      output: Localization.swift
+      params:
+        enumName: Localization
+        noComments: true
+xcassets:
+  - inputs: Resources/Colors.xcassets
+    outputs:
+      - templatePath: swiftgen/colors.stencil
+        output: Colors.swift
+  - inputs: Resources/Assets.xcassets
+    outputs:
+      - templatePath: swiftgen/images.stencil
+        output: ImageIdentifiers.swift

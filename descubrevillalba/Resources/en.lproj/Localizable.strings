@@ -1,0 +1,45 @@
+/* 
+  strings.strings
+  descubrevillalba
+
+  Created by Antonio Moreno on 03/03/2022.
+  
+*/
+
+"back_button" = "Back";
+"main_title" = "Discover Villalba";
+"main_scanner_button" = "Scan QR code";
+"main_monuments_button" = "Points of interest";
+
+"how_it_works_header" = "How does it work?";
+"how_it_works_toolbar" = "Information";
+"how_it_works_language" = "Select language";
+"how_it_works_munitic" = "Tourism subsidies: Promotion of the implementation of information and communication technologies in municipal tourist resources and facilities (MUNITIC)";
+"how_it_works_info" = "To enjoy this tourist experience in Villalba, you need to go to the points of interest and scan the QR code available there.\n\n
+To do this, use the main option “Scan QR code“. Once scanned, you will be able to enjoy a complete guide with all the information.\n\n
+If you want to find all the points of interest that our town offers, use the “Points of interest“ option, and you will be able to see the closest route to the selected place by clicking on each point. \n\n
+We hope you enjoy Villalba del Alcor and all its heritage.";
+
+"scanner_permissions_text" = "To scan the QR code you must allow access to the camera";
+"scanner_permissions_button" = "Allow access";
+"scanner_invalid_qrcode_title" = "Oh no! Scanned code is invalid";
+"scanner_invalid_qrcode_info" = "Please try again with the codes located at the different points of interest in Villalba del Alcor";
+
+"monument_list_toolbar_text" = "Points of interest";
+"videos_toolbar_text" = "Videos";
+"gallery_toolbar_text" = "Gallery";
+"audioguide_toolbar_text" = "Audioguide";
+
+"videos_emptystate_text" = "This point of interest does not have any video";
+"gallery_emptystate_text" = "This point of interest does not have any photo";
+
+"dialog_error_title" = "Error";
+"dialog_error_message" = "An error has occurred. Try again";
+"dialog_error_button_retry" = "Try again";
+"dialog_error_button_cancel" = "Cancel";
+"dialog_selectlanguage_positive" = "Confirm";
+"dialog_selectlanguage_text" = "Are you sure you want to update the language?";
+"map_error_text" = "You need a browser to see the location";
+"map_not_address" = "The address is not defined";
+
+"panorama_row_text" = "Click on the image for a 360 experience";

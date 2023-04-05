@@ -1,0 +1,45 @@
+/* 
+  strings.strings
+  descubrevillalba
+
+  Created by Antonio Moreno on 03/03/2022.
+  
+*/
+
+"back_button" = "Retour";
+"main_title" = "Découvrez Villalba";
+"main_scanner_button" = "Scannez le code QR";
+"main_monuments_button" = "Points d'intérêt";
+
+"how_it_works_header" = "Comment fonctionne l'application?";
+"how_it_works_toolbar" = "Information";
+"how_it_works_language" = "Choisir la langue";
+"how_it_works_munitic" = "Subventions touristiques : Promotion de l'implantation des technologies de l'information et de la communication dans les ressources et équipements touristiques municipaux (MUNITIC)";
+"how_it_works_info" = "Pour profiter de cette expérience touristique à Villalba, vous devez vous rendre aux points d'intérêt et y scanner le QR disponible.\n\n
+Pour ce faire, utilisez l'option principale “Scan QR“. Ensuite, vous pourrez profiter d'un guide complet avec toutes les informations.\n\n
+Si vous voulez trouver tous les points d'intérêt que notre ville offre, utilisez l'option “Voir la liste complète“, et vous pourrez voir l'itinéraire le plus proche du lieu sélectionné en cliquant sur à chaque point. \n\n
+Nous espérons que vous apprécierez Villalba del Alcor et tout son patrimoine.";
+
+"scanner_permissions_text" = "Avant de pouvoir scanner le code QR, vous devez autoriser l'accès à la caméra. Assurez-vous que vous disposez des autorisations accordées dans les paramètres de l'application";
+"scanner_permissions_button" = "Permet l'accès";
+"scanner_invalid_qrcode_title" = "Oh là là!  Le code scanné n'est pas valide";
+"scanner_invalid_qrcode_info" = "Veuillez réessayer avec les codes situés aux différents points d'intérêt de Villalba del Alcor";
+
+"monument_list_toolbar_text" = "Points d'intérêt";
+"videos_toolbar_text" = "Vidéos";
+"gallery_toolbar_text" = "Galerie";
+"audioguide_toolbar_text" = "Audioguide";
+
+"videos_emptystate_text" = "Ce point d'intérêt n'a pas de vidéo pas de vidéo";
+"gallery_emptystate_text" = "Ce point d'intérêt n'a pas de photo";
+
+"dialog_error_title" = "Erreur";
+"dialog_error_message" = "Une erreur s'est produite. Essayer de nouveau";
+"dialog_error_button_retry" = "Réessayer";
+"dialog_error_button_cancel" = "Annuler";
+"dialog_selectlanguage_positive" = "Confirmer";
+"dialog_selectlanguage_text" = "Voulez-vous vraiment mettre à jour la langue ?";
+"map_error_text" = "Vous avez besoin d'un navigateur pour voir l'emplacement";
+"map_not_address" = "La direction n'est pas définie";
+
+"panorama_row_text" = "Cliquez sur l'image pour une expérience 360";

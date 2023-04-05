@@ -1,0 +1,23 @@
+// swiftlint:disable all
+// Generated using SwiftGen — https://github.com/SwiftGen/SwiftGen
+
+{% if catalogs %}
+import UIKit
+
+{% macro casesBlock assets %}
+  {% for asset in assets %}
+  {% if asset.type == "color" %}
+  static let {{asset.name|swiftIdentifier:"pretty"|lowerFirstWord|escapeReservedKeywords}} = UIColor.create(named: "{{asset.value}}")
+  {% elif asset.items %}
+  {% call casesBlock asset.items %}
+  {% endif %}
+  {% endfor %}
+{% endmacro %}
+extension UIColor {
+  {% for catalog in catalogs %}
+  {% call casesBlock catalog.assets %}
+  {% endfor %}
+}
+{% else %}
+// No assets found
+{% endif %}

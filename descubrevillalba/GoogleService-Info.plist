@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1096836537907-kju4u8sohkfqb4hnk3s2aa4fjhv9ipil.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1096836537907-kju4u8sohkfqb4hnk3s2aa4fjhv9ipil</string>
+	<key>API_KEY</key>
+	<string>AIzaSyARitTC62APU6gmj6NwlLUstKFzTfcwjFA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1096836537907</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.huelva.alcor.descubrevillalba</string>
+	<key>PROJECT_ID</key>
+	<string>descubre-villalba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>descubre-villalba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1096836537907:ios:7657441f6917d106d38d46</string>
+</dict>
+</plist>

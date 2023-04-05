@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  descubrevillalba
+
+  Created by Antonio Moreno on 27/03/2022.
+  
+*/
+
+"NSCameraUsageDescription" = "Pour pouvoir scanner le code QR, vous devez autoriser l'accès à la caméra.";
+"NSUserTrackingUsageDescription" = "Cet identifiant sera utilisé pour recueillir des statistiques sur l'utilisation de l'application.";
